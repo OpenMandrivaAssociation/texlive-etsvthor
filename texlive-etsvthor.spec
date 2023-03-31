@@ -1,6 +1,6 @@
 Name:		texlive-etsvthor
 Version:	48186
-Release:	1
+Release:	2
 Summary:	Some useful abbreviations for members of e.t.s.v. Thor
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/etsvthor
