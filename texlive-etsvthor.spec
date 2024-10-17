@@ -3,7 +3,7 @@ Version:	48186
 Release:	2
 Summary:	Some useful abbreviations for members of e.t.s.v. Thor
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/etsvthor
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/etsvthor
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/etsvthor.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/etsvthor.doc.r%{version}.tar.xz
